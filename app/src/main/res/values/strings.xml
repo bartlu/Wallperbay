@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Wallperbay</string>
+
+    <string name="apikey">29597552-1af206732a581f33affcbbead</string>
+    <string name="server_address">"https://pixabay.com/</string>
+</resources>
